@@ -1,0 +1,5 @@
+const math = require('./math')
+console.log(math.add(5,5))
+console.log(math.subtract(5,4))
+console.log(math.multiply(3,2))
+console.log(math.divide(6,2))

@@ -1,0 +1,11 @@
+.centerList{
+  border: solid black 10px;
+  text-align: center;
+  background-color: aqua;
+}
+
+.carList{
+  border: solid black 10px;
+  text-align: center;
+  background-color: aquamarine;
+}
